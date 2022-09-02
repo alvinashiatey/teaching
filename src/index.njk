@@ -1,0 +1,26 @@
+{% extends "layouts/base.njk" %}
+  {% block content %}
+      <div class="home">
+          <div class="home__wrapper">
+              <section class="bio">
+                  <div class="panel bio__wrapper">
+                      <p>Alvin Ashiatey</p>
+                      <a href="mailto:mail@alvinashiatey.com">mail@alvinashiatey.com</a>
+                      <p>2022</p>
+                  </div>
+              </section>
+              <section class="list">
+                  <div class="panel list__wrapper">
+                      {% for cls in collections.classes %}
+                          <div class="cls">
+                              <a href="{{ cls.url }}">
+                                  {{ cls.data.metaTitle }}
+                              </a>
+                              <p>{{ cls.data.year }}</p>
+                          </div>
+                      {% endfor %}
+                  </div>
+              </section>
+          </div>
+      </div>
+  {% endblock %}

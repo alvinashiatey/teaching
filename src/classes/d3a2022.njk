@@ -1,0 +1,56 @@
+---
+metaTitle: "Design III-A: Design for the Digital Realm"
+institution: Rutgers University
+role: PTL
+cn: 07:081:431
+cf: Lab/Studio
+moi: Face-to-Face
+year: 2022
+---
+
+{% extends "layouts/class.njk" %}
+{% block meta %}
+    <p>Alvin Ashiatey</p>
+    <a href="https://www.masongross.rutgers.edu/degrees-programs/art-design/courses/" target="_blank">{{ institution }}
+        ({{ role }})</a>
+    <p>{{ metaTitle }}, {{ year }}</p>
+    <p>Course Number: {{ cn }}</p>
+    <p>Course Format: {{ cf }}</p>
+    <p>Mode of Instruction: {{ moi }}</p>
+{% endblock %}
+
+{% block syllabus %}
+    <article>
+        {% markdown %}
+            {% include "_md/d3a2022/syllabus.md" %}
+        {% endmarkdown %}
+    </article>
+{% endblock %}
+{% block calendar %}
+    <article>
+        {% markdown %}
+            {% include "_md/d3a2022/cal.md" %}
+        {% endmarkdown %}
+    </article>
+{% endblock %}
+{% block projects %}
+    <article>
+        {% markdown %}
+            {% include "_md/d3a2022/projects.md" %}
+        {% endmarkdown %}
+    </article>
+{% endblock %}
+{% block participants %}
+    <article>
+        {% markdown %}
+            {% include "_md/d3a2022/participants.md" %}
+        {% endmarkdown %}
+    </article>
+{% endblock %}
+{% block resources %}
+    <article>
+        {% markdown %}
+            {% include "_md/resources.md" %}
+        {% endmarkdown %}
+    </article>
+{% endblock %}

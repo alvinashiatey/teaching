@@ -1,0 +1,34 @@
+{
+  "name": "teaching",
+  "version": "0.0.1",
+  "description": "this is the teaching site of Alvin Ashiatey",
+  "main": "src/client/main.js",
+  "scripts": {
+    "dev": "concurrently pnpm:dev:*",
+    "dev:eleventy": "eleventy --serve",
+    "dev:vite": "vite",
+    "build": "pnpm run build:vite && pnpm run build:eleventy",
+    "build:eleventy": "NODE_ENV=production eleventy",
+    "build:vite": "NODE_ENV=production tsc && vite build",
+    "surge": "pnpm build && surge ./dist coding-as-teaching.com"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy-cache-assets": "^2.3.0",
+    "@11ty/eleventy-img": "^2.0.1",
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "concurrently": "^7.3.0",
+    "dotenv": "^14.3.2",
+    "html-minifier": "^4.0.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.1.4",
+    "markdown-it-div": "^1.1.0",
+    "prettier": "2.7.1",
+    "sass": "^1.49.0",
+    "terser": "^5.14.2",
+    "typescript": "^4.7.4",
+    "vite": "^3.0.5"
+  },
+  "author": "Alvin Ashiatey <alvinashiatey@gmail.com> (https://www.alvinashiatey.com/)",
+  "license": "MIT"
+}

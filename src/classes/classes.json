@@ -1,0 +1,4 @@
+{
+  "permalink": "/{{ metaTitle | slugify }}/index.html",
+  "tags": ["classes"]
+}

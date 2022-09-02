@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% include "partials/meta-info.njk" %}
+    {% if build.env == "production" %}
+      {# Add any CSS from the main script #}
+      {% viteLinkStylesheetTags "src/client/main.ts" %}
+      {% viteLinkModulePreloadTags "src/client/main.ts" %}
+    {% endif %}
+  </head>
+  <body>
+      <div class="container">
+        <main>
+          {% block content %}{% endblock %}
+        </main>
+      </div>
+    {% if build.env == "production" %}
+      {# We must read the production scripts from the Vite manifest. We defer that logic to a custom shortcode #}
+      {% viteScriptTag "src/client/main.ts" %}
+      {% viteLegacyScriptTag "vite/legacy-polyfills" %}
+      {% viteLegacyScriptTag "src/client/main-legacy.js" %}
+    {% else %}
+      <script type="module" src="http://localhost:5173/@vite/client"></script>
+      <script type="module" src="http://localhost:5173/src/client/main.ts"></script>
+    {% endif %}
+  </body>
+</html>

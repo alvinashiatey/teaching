@@ -1,0 +1,30 @@
+.home {
+  height: 100vh;
+  width: inherit;
+
+  &__wrapper {
+    display: flex;
+    gap: var(--padding-s);
+    height: inherit;
+    width: inherit;
+
+    & > * {
+      flex: 1
+    }
+
+    .panel {
+      padding-block: var(--padding-s);
+    }
+
+    .list__wrapper {
+      .cls {
+        display: flex;
+        justify-content: space-between;
+
+        &:hover {
+          border-bottom: 1px solid var(--secondary-color);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{% extends "layouts/base.njk" %}
+{% block content %}
+    <div class="class">
+        <div class="details">
+            <section class="panel_one">
+                <div class=" panel panel_one__wrapper">
+                    <div class="meta">
+                        {% block meta %}{% endblock %}
+                    </div>
+                    {% include "partials/class-nav.njk" %}
+                </div>
+            </section>
+            <section class="panel_two">
+                <div class=" panel panel_two__wrapper">
+                    <div id="syllabus__content" hidden>
+                        {% block syllabus %}{% endblock %}
+                    </div>
+                    <div id="calendar__content">
+                        {% block calendar %}{% endblock %}
+                    </div>
+                    <div id="projects__content" hidden>{% block projects%}{% endblock %}</div>
+                    <div id="participants__content" hidden>{% block participants %}{% endblock %}</div>
+                    <div id="resources__content" hidden>{% block resources %}{% endblock %}</div>
+                </div>
+            </section>
+        </div>
+    </div>
+{% endblock %}
