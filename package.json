@@ -7,10 +7,10 @@
     "dev": "concurrently pnpm:dev:*",
     "dev:eleventy": "eleventy --serve",
     "dev:vite": "vite",
-    "build": "pnpm run build:vite && pnpm run build:eleventy",
+    "build": "npm run build:vite && npm run build:eleventy",
     "build:eleventy": "NODE_ENV=production eleventy",
     "build:vite": "NODE_ENV=production tsc && vite build",
-    "surge": "pnpm build && surge ./dist coding-as-teaching.com"
+    "surge": "npm build && surge ./dist coding-as-teaching.com"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
