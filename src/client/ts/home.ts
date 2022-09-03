@@ -1,4 +1,4 @@
 
 export default function log (){
-    console.log("Here")
+    console.log("---- Design and developed by Alvin Ashiatey ----")
 }

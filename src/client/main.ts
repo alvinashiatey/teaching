@@ -1,6 +1,6 @@
 import "@/client/scss/main.scss"
 import log from "./ts/home";
-import {calendarButtons, visibleWeekByDate, panelOneNav} from "@/client/ts/classes";
+import {calendarButtons, visibleWeekByDate, panelOneNav, participantRandomizer} from "@/client/ts/classes";
 
 
 window.onload = ()=>{
@@ -8,4 +8,5 @@ window.onload = ()=>{
     calendarButtons()
     visibleWeekByDate()
     panelOneNav()
+    participantRandomizer()
 }

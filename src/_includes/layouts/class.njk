@@ -18,9 +18,16 @@
                     <div id="calendar__content">
                         {% block calendar %}{% endblock %}
                     </div>
-                    <div id="projects__content" hidden>{% block projects%}{% endblock %}</div>
-                    <div id="participants__content" hidden>{% block participants %}{% endblock %}</div>
-                    <div id="resources__content" hidden>{% block resources %}{% endblock %}</div>
+                    <div id="projects__content" hidden>
+                        {% block projects%}{% endblock %}
+                    </div>
+                    <div id="participants__content" hidden>
+                        <div id="collab__picker">🪀</div>
+                        {% block participants %}{% endblock %}
+                    </div>
+                    <div id="resources__content" hidden>
+                        {% block resources %}{% endblock %}
+                    </div>
                 </div>
             </section>
         </div>

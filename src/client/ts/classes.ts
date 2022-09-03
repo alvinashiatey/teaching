@@ -93,7 +93,7 @@ const panelOneNav = () => {
             ch.forEach((ctn) => {
                 const element = <HTMLDivElement>ctn
                 if (element.id === el.containerID) {
-                    element.toggleAttribute("hidden")
+                    element.removeAttribute("hidden")
                 } else {
                     element.setAttribute("hidden", "")
                 }
@@ -102,5 +102,23 @@ const panelOneNav = () => {
     })
 }
 
+const participantRandomizer = () => {
+    const picker = document.getElementById("collab__picker") as HTMLDivElement
+    const participants = document.querySelectorAll(".collaborator") as NodeListOf<HTMLUListElement>
+    const pNumArray = [...Array(participants!.length).keys()]
+    picker!.addEventListener("click", function () {
+        if (pNumArray.length === 0 ) {
+            participants?.forEach(el => {
+                el.classList.remove("selected")
+            })
+            pNumArray.push(...Array(participants!.length).keys())
+            return
+        }
+        const randomIndex = Math.floor(Math.random() * pNumArray.length)
+        participants[pNumArray[randomIndex]]?.classList.add('selected')
+        pNumArray.splice(randomIndex, 1)
+    })
+}
 
-export {calendarButtons, visibleWeekByDate, panelOneNav}
+
+export {calendarButtons, visibleWeekByDate, panelOneNav,  participantRandomizer}

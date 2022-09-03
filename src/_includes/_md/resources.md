@@ -23,7 +23,7 @@
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [JavaScript Tutorial](https://www.w3schools.com/js/)
 
-- Hosting
+- Hosting {.heading}
   - [Github Pages](https://pages.github.com/)
   - [Netlify](https://www.netlify.com/)
   - [Vercel](https://vercel.com/)
