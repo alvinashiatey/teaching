@@ -15,7 +15,7 @@ const PATH_PREFIX = "/";
 
 async function viteScriptTag(entryFilename) {
   const entryChunk = await getChunkInformationFor(entryFilename);
-  return `<script type="module" src="${PATH_PREFIX}${entryChunk.file}"></script>`;
+  return `<script inline type="module" src="${PATH_PREFIX}${entryChunk.file}"></script>`;
 }
 
 /* Generate link[rel=modulepreload] tags for a script's imports */
