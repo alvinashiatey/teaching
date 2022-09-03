@@ -15,8 +15,9 @@ MMMMMM"___ "_._   MMM"_."" _ """"""
    \\________________________/
    (_)                    (_)
    
-   This website is a tree ...
+   This website is a tree, growing...
         `
     )
     console.log("---- Design and developed by Alvin Ashiatey ----")
+    console.log("---- IPY I see you, thanks for the help ----")
 }
