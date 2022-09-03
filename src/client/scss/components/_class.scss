@@ -27,6 +27,7 @@
           gap: calc(var(--padding-s) / 4);
           @media screen and (max-width: 60em) {
             flex-direction: row;
+            flex-wrap: wrap;
           }
           .nv {
             background: var(--secondary-color);
