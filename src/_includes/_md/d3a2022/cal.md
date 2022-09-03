@@ -184,8 +184,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 1, 2022 {.date}			
-- — [Week 9 doc](https://docs.google.com/document/d/1wm12QeVYUzlNRp-unBNGJ0Wc8ktV__ejuPIy-Fiit88/edit?usp=sharing)				
-- — Reminder: class ends early today				
+- — [Week 9 doc](https://docs.google.com/document/d/1wm12QeVYUzlNRp-unBNGJ0Wc8ktV__ejuPIy-Fiit88/edit?usp=sharing)					
 - — Discuss American Artist's Black Gooey Universe				
 - — in-class studio				
 - — one-on-ones

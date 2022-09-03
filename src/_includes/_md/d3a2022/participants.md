@@ -4,7 +4,7 @@
 - Amaris C. Brown {.collaborator}
 - Sarah E. Brown (She/Her) {.collaborator}
 - Shriya S. Chunduri (She/Her) {.collaborator}
-- Emma Cicala M. Cicala (She/Her) {.collaborator}
+- Emma M. Cicala (She/Her) {.collaborator}
 - Anastasia Codjebas {.collaborator}
 - Jason W. Knight {.collaborator}
 - Angelica J. Malacara {.collaborator}
