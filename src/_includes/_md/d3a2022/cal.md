@@ -1,5 +1,5 @@
 ::: .cal
-\+ W1 {.cal__btn}
+\+ W1 {.cal__btn aria-label="Toggle Week 1"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 6, 2022 {.date}
@@ -21,7 +21,7 @@ For next week
 :::
 
 ::: .cal
-\+ W2 {.cal__btn}
+\+ W2 {.cal__btn aria-label="Toggle Week 2"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 13, 2022 {.date}
@@ -43,7 +43,7 @@ For next week
 :::
 
 ::: .cal
-\+ W3 {.cal__btn}
+\+ W3 {.cal__btn aria-label="Toggle Week 3"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 20, 2022 {.date}				
@@ -64,7 +64,7 @@ For next week
 :::
 
 ::: .cal
-\+ W4 {.cal__btn}
+\+ W4 {.cal__btn aria-label="Toggle Week 4"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 27, 2022 {.date}			
@@ -85,7 +85,7 @@ For next week
 :::
 
 ::: .cal
-\+ W5  {.cal__btn}
+\+ W5  {.cal__btn aria-label="Toggle Week 5"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 4, 2022	{.date}				
@@ -108,7 +108,7 @@ For next week
 :::
 
 ::: .cal
-\+ W6 {.cal__btn}
+\+ W6 {.cal__btn aria-label="Toggle Week 6"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 11, 2022 {.date}			
@@ -133,7 +133,7 @@ For next week
 :::
 
 ::: .cal
-\+ W7 {.cal__btn}
+\+ W7 {.cal__btn aria-label="Toggle Week 7"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 18, 2022 {.date}				
@@ -159,7 +159,7 @@ For next week
 :::
 
 ::: .cal
-\+ W8 {.cal__btn}
+\+ W8 {.cal__btn aria-label="Toggle Week 8"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 25, 2022 {.date}				
@@ -180,7 +180,7 @@ For next week
 :::
 
 ::: .cal
-\+ W9 {.cal__btn}
+\+ W9 {.cal__btn aria-label="Toggle Week 9"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 1, 2022 {.date}			
@@ -199,7 +199,7 @@ For next week
 :::
 
 ::: .cal
-\+ W10 {.cal__btn}
+\+ W10 {.cal__btn aria-label="Toggle Week 10"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 8, 2022 {.date}				
@@ -217,7 +217,7 @@ For next week
 :::
 
 ::: .cal
-\+ W11 {.cal__btn}
+\+ W11 {.cal__btn aria-label="Toggle Week 11"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 15, 2022 {.date}			
@@ -237,7 +237,7 @@ For next week
 :::
 
 ::: .cal
-\+ W12 {.cal__btn}
+\+ W12 {.cal__btn aria-label="Toggle Week 12"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 22, 2022 {.date}			
@@ -247,7 +247,7 @@ November 22, 2022 {.date}
 :::
 
 ::: .cal
-\+ W13 {.cal__btn}
+\+ W13 {.cal__btn aria-label="Toggle Week 13"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 29, 2022 {.date}			
@@ -267,7 +267,7 @@ For next week
 :::
 
 ::: .cal
-\+ W14 {.cal__btn}
+\+ W14 {.cal__btn aria-label="Toggle Week 14"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 December 6, 2022 {.date}				
@@ -285,7 +285,7 @@ For next week
 :::
 
 ::: .cal
-\+ W15 {.cal__btn}
+\+ W15 {.cal__btn aria-label="Toggle Week 15"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 December 13, 2022 {.date}			
@@ -297,7 +297,7 @@ December 13, 2022 {.date}
 :::
 
 ::: .cal
-\+ W16 {.cal__btn}
+\+ W16 {.cal__btn aria-label="Toggle Week 16"}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 December 20, 2022 {.date}		

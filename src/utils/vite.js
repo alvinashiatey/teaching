@@ -51,7 +51,7 @@ async function viteLinkStylesheetTags(entryFilename) {
   return entryChunk.css
     .map(
       (cssFile) =>
-        `<link rel="stylesheet" href="${PATH_PREFIX}${cssFile}"></link>`
+        `<link inline rel="stylesheet" href="${PATH_PREFIX}${cssFile}"></link>`
     )
     .join("\n");
 }
