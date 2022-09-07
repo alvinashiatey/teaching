@@ -15,7 +15,7 @@ For next week
 - — All future classes this semester will begin at 10AM				
 - — Create 3 ideas for P1 in the form of storyboard sketches or rough prototypes				
 - 📖Read Ulises Carrión, [“THE NEW ART OF MAKING BOOKS”](https://www.serraglia.com/wp-content/uploads/2018/05/Ulises-Carrion-The-New-Art-of-Making-Books1.pdf), while reading substitute "Book(s)" with "website(s)"
-- — Write a response and three discussion questions in the [Week 2 doc](https://docs.google.com/document/d/1ceyVvrJYtrdnX88Lle36TP7IUtFV-IXmOruP_QfQDqA/edit?usp=sharing)				
+- — Write a response and three discussion questions in the [Week 2 doc](https://rutgers.box.com/s/yn97c65hqbzkx1ltgj8ehw0kp27uksk7)	
 :::
 :::
 :::
@@ -25,7 +25,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 13, 2022 {.date}
-- — [Week 2 doc](https://docs.google.com/document/d/1ceyVvrJYtrdnX88Lle36TP7IUtFV-IXmOruP_QfQDqA/edit?usp=sharing)			
+- — [Week 2 doc](https://rutgers.box.com/s/yn97c65hqbzkx1ltgj8ehw0kp27uksk7)			
 - — Free writing  				
 - — Reading Discussion and Presentations					
 - — Tutorial: After Effects and Exercise: Type in Motion				
@@ -37,7 +37,7 @@ For next week
 - — Drop your completed video into this google drive folder. Make sure your file follows the specs listed in the exercise instructions				
 - — Create a working prototype of your selected idea for P1				
 - 📖Read [Glitch Feminism Manifesto](https://rhizome.org/editorial/2013/mar/12/glitch-body-politic/)			
-- — Write a response and three discussion questions in the [Week 3 doc](https://docs.google.com/document/d/1CYwJCh7E1v0t5mndzvskHFTGxCOfu4I4OMroRlm9bu8/edit?usp=sharing)				
+- — Write a response and three discussion questions in the [Week 3 doc](https://rutgers.box.com/s/jl9lhcwgj330grat4wzt9c69errrqo3h)		
 :::
 :::
 :::
@@ -47,7 +47,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 20, 2022 {.date}				
-- — [Week 3 doc](https://docs.google.com/document/d/1CYwJCh7E1v0t5mndzvskHFTGxCOfu4I4OMroRlm9bu8/edit?usp=sharing)				
+- — [Week 3 doc](https://rutgers.box.com/s/jl9lhcwgj330grat4wzt9c69errrqo3h)				
 - — Free Writing  				
 - — Reading Discussion				
 - — Spend 5–10 minutes reading the response and questions written by the person to your left. Highlight one of their questions. Annotate their response (before your comment, include your name, e.g. "Alvin: lorem ipsum..."). Randomizer will pick the first name to read their selected question. This person will pick the next person, and so on.				

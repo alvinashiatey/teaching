@@ -88,3 +88,4 @@
 - [Index of /poetry](https://wenaus.org/poetry/)
 - [Listening History](https://www.trudy.tube/)
 - [Software Information Technology: Its new meaning for art](https://monoskop.org/images/3/31/Software_Information_Technology_Its_New_Meaning_for_Art_catalogue.pdf)
+- [The Seven Rules of the Metaverse](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c)

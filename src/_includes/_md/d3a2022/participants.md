@@ -1,15 +1,15 @@
 
-- Yvette Anning {.collaborator}
-- Emily R. Arscott {.collaborator}
-- Amaris C. Brown {.collaborator}
+- Yvette Anning (She/Her) {.collaborator}
+- Emily R. Arscott (She/Her) {.collaborator}
+- Amaris C. Brown (She/Her) {.collaborator}
 - Sarah E. Brown (She/Her) {.collaborator}
 - Shriya S. Chunduri (She/Her) {.collaborator}
 - Emma M. Cicala (She/Her) {.collaborator}
-- Anastasia Codjebas {.collaborator}
-- Jason W. Knight {.collaborator}
-- Angelica J. Malacara {.collaborator}
-- Claire C. Malley {.collaborator}
+- Anastasia Codjebas (She/Her) {.collaborator}
+- Jason W. Knight (He/Him) {.collaborator}
+- Angelica J. Malacara (She/Her) {.collaborator}
+- Claire C. Malley (She/Her) {.collaborator}
 - Natalie Perez (They/Them) {.collaborator}
-- Morgan Robinson {.collaborator}
-- Heliya Sefat {.collaborator}
-- Jasmine A. Young {.collaborator}
+- Morgan Robinson (She/Her) {.collaborator}
+- Heliya Sefat (She/Her) {.collaborator}
+- Jasmine A. Young (She/Her) {.collaborator}
