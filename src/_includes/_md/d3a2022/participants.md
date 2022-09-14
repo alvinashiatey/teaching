@@ -8,8 +8,7 @@
 - Anastasia Codjebas (She/Her) {.collaborator}
 - Jason W. Knight (He/Him) {.collaborator}
 - Angelica J. Malacara (She/Her) {.collaborator}
-- Claire C. Malley (She/Her) {.collaborator}
-- Natalie Perez (They/Them) {.collaborator}
+- Ro Perez (They/Them) {.collaborator}
 - Morgan Robinson (She/Her) {.collaborator}
 - Heliya Sefat (She/Her) {.collaborator}
 - Jasmine A. Young (She/Her) {.collaborator}

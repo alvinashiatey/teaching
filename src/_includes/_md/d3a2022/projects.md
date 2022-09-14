@@ -2,7 +2,7 @@
     \+ P1 — Exhibition {.proj__btn}
 ::: .proj__detail {hidden=""}
 ::: .detail
-Galleries and museums are increasingly showcasing digital works, ranging from immersive installations, large-scale projections, interactive pieces on a browser, and more. Following the theme "The Art of the Everyday: Ordinary Extraordinary Proposal", create a digital work that focuses on scale or interactivity. The project will be realized in the context of the undergraduate art open exhibition in the Mason Gross Galleries. The final form of this project is limited to a 2D animation or a screen-based interactive piece on a browser.
+Galleries and museums are increasingly showcasing digital works, ranging from immersive installations, large-scale projections, interactive pieces on a browser, and more. Following the theme "The Art of the Everyday: Ordinary Extraordinary", create a digital work that focuses on scale or interactivity. The project will be realized in the context of the undergraduate art open exhibition in the Mason Gross Galleries. The final form of this project is limited to a 2D animation or a screen-based interactive piece on a browser.
 
 Throughout this project, we will question:
 - — what are ways of displaying digital work in a gallery space?
@@ -10,7 +10,7 @@ Throughout this project, we will question:
 - — how does scale, audience, and duration affect digital works?
 :::
 ::: .Task
-Create a digital animation that is intended for a large-scale wall projection or a browser-based interactive work that follows the theme "The Art of the Everyday: Ordinary Extraordinary Proposal".	
+Create a digital animation that is intended for a large-scale wall projection or a browser-based interactive work that follows the theme "The Art of the Everyday: Ordinary Extraordinary".	
 :::
 ::: .Specs
 Videos {.heading}

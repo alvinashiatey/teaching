@@ -4,7 +4,7 @@ As digital technology industries rapidly alter ways of doing and thinking, desig
 
 ### Projects
 The semester will be divided into three 4–5 week long projects in order of shrinking scale. This will move from the size of a gallery to a browser and then to a mobile application or even the intangible or invisible. Throughout the course, the history of design will be revisited to see how client-driven design practices have partly evolved into research-driven authorship or entrepreneurial practices.
-— Exhibition: The first project will be informed by inspiration from the Zimmerli Art Museum’s fall exhibition, Beauty Among the Ordinary Things. Theme: The Art of the Everyday: Ordinary Extraordinary Proposal
+— Exhibition: The first project will be informed by inspiration from the Zimmerli Art Museum’s fall exhibition, Beauty Among the Ordinary Things. Theme: The Art of the Everyday: Ordinary Extraordinary 
 — Subcultural Publication: The second project will focus on alternative methods of publishing, concept development for subcultures, and history of publication before and after digital production and distribution.
 — Social Web: The third project will analyze our existing social networks and reconsider the behaviors we would like to modify, enhance, or remove, especially in relation to smaller networks.
 
