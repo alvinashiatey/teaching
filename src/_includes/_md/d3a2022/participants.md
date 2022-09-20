@@ -10,5 +10,4 @@
 - Angelica J. Malacara (She/Her) {.collaborator}
 - Ro Perez (They/Them) {.collaborator}
 - Morgan Robinson (She/Her) {.collaborator}
-- Heliya Sefat (She/Her) {.collaborator}
 - Jasmine A. Young (She/Her) {.collaborator}
