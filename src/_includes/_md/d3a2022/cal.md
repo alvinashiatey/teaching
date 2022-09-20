@@ -77,8 +77,8 @@ September 27, 2022 {.date}
 ::: .next__week
 For next week				
 - — P1 final presentations				
-- 📖Read On Community Memory by Mike Tully				
-- — Listen to HKW Shaping Dance Floors, Locally				
+- 📖Read On [Community Memory](https://www.are.na/blog/community-memory) by Mike Tully				
+- — Listen to [HKW Shaping Dance Floors, Locally](https://www.hkw.de/en/programm/projekte/2020/on_music/podcast_on_music/shaping_dance_floors_locally.php)			
 - — Write a response and three discussion questions in the [Week 5 doc](https://docs.google.com/document/d/1xzqd0lv2Hqbvl0LfGLELA1f7Jv_5D3A7Lh2eMCFp8dE/edit?usp=sharing)				
 :::
 :::
