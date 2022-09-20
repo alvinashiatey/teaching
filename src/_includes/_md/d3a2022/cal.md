@@ -34,7 +34,7 @@ September 13, 2022 {.date}
 ::: .next__week
 For next week				
 - — Spend 1–2 hours on your kinetic typographic poster exercise				
-- — Drop your completed video into this google drive folder. Make sure your file follows the specs listed in the exercise instructions				
+- — Drop your completed video into the exercise folder in your named folder [here](https://rutgers.box.com/s/2j5wf60p0vfvuesajd7e75q9l5kxrv4k). Make sure your file follows the specs listed in the exercise instructions				
 - — Create a working prototype of your selected idea for P1				
 - 📖Read [Glitch Feminism Manifesto](https://rhizome.org/editorial/2013/mar/12/glitch-body-politic/)			
 - — Write a response and three discussion questions in the [Week 3 doc](https://rutgers.box.com/s/jl9lhcwgj330grat4wzt9c69errrqo3h)		
@@ -53,7 +53,7 @@ September 20, 2022 {.date}
 - — Spend 5–10 minutes reading the response and questions written by the person to your left. Highlight one of their questions. Annotate their response (before your comment, include your name, e.g. "Alvin: lorem ipsum..."). Randomizer will pick the first name to read their selected question. This person will pick the next person, and so on.				
 - — Brief presentation of Exercise: Type in Motion.					
 - — Mid-Project review				
-- — During each presentation, each student must write 5 constructive comments in the [Week 3 doc](https://docs.google.com/document/d/1CYwJCh7E1v0t5mndzvskHFTGxCOfu4I4OMroRlm9bu8/edit?usp=sharing).
+- — During each presentation, each student must write 5 constructive comments in the [Week 3 doc](https://rutgers.box.com/s/jl9lhcwgj330grat4wzt9c69errrqo3h).
 :::
 ::: .next__week
 For next week				
