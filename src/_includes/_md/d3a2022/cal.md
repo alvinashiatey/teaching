@@ -59,6 +59,9 @@ September 20, 2022 {.date}
 For next week				
 - — Please bring your laptop 				
 - — Continue working on your P1 project
+- 📖Read On [Community Memory](https://www.are.na/blog/community-memory) by Mike Tully
+- — Listen to [HKW Shaping Dance Floors, Locally](https://www.hkw.de/en/programm/projekte/2020/on_music/podcast_on_music/shaping_dance_floors_locally.php)
+- — Write a response and three discussion questions in the [Week 4 doc](https://rutgers.box.com/s/daj327mttnsmz8wrlaoyanln16r9bk9a)
 :::
 :::
 :::
@@ -68,7 +71,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 27, 2022 {.date}			
-- — [Week 4 doc](https://docs.google.com/document/d/1dX7X9N7RB2PioHkOpTev7hnVSEWdnPrxWaQ5zEl50lI/edit?usp=sharing)
+- — [Week 4 doc](https://rutgers.box.com/s/daj327mttnsmz8wrlaoyanln16r9bk9a)
 - — Free writing  				
 - — Demo: HTML & CSS refresher				
 - — Exercise: Coding from Life					
@@ -76,10 +79,7 @@ September 27, 2022 {.date}
 :::
 ::: .next__week
 For next week				
-- — P1 final presentations				
-- 📖Read On [Community Memory](https://www.are.na/blog/community-memory) by Mike Tully				
-- — Listen to [HKW Shaping Dance Floors, Locally](https://www.hkw.de/en/programm/projekte/2020/on_music/podcast_on_music/shaping_dance_floors_locally.php)			
-- — Write a response and three discussion questions in the [Week 5 doc](https://docs.google.com/document/d/1xzqd0lv2Hqbvl0LfGLELA1f7Jv_5D3A7Lh2eMCFp8dE/edit?usp=sharing)				
+- — P1 final presentations					
 :::
 :::
 :::
@@ -89,14 +89,13 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 4, 2022	{.date}				
-- — [Week 5 doc](https://docs.google.com/document/d/1xzqd0lv2Hqbvl0LfGLELA1f7Jv_5D3A7Lh2eMCFp8dE/edit?usp=sharing)				
+- — [Week 5 doc](https://rutgers.box.com/s/nt98cu50f5y8wd7uihgl0v8dhaz6ngmz)				
 - — Free writing  				
 - — Final presentations				
 - — review presentation format (first responders + note takers)				
 - — Lunch break				
-- — Final presentations, cont'd				
-- — Introduce P2					
-- — [NAME] will document and summarize this fieldtrip
+- — Time-Time-Time Workshop (HTML-CSS-JS)				
+- — Introduce P2
 :::
 ::: .next__week
 For next week				
