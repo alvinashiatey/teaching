@@ -25,8 +25,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 13, 2022 {.date}
-- — [Week 2 doc](https://rutgers.box.com/s/yn97c65hqbzkx1ltgj8ehw0kp27uksk7)			
-- — Free writing  				
+- — [Week 2 doc](https://rutgers.box.com/s/yn97c65hqbzkx1ltgj8ehw0kp27uksk7)
 - — Reading Discussion and Presentations					
 - — Tutorial: After Effects and Exercise: Type in Motion				
 - — Presentation of 3 storyboard sketches
@@ -47,8 +46,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 September 20, 2022 {.date}				
-- — [Week 3 doc](https://rutgers.box.com/s/jl9lhcwgj330grat4wzt9c69errrqo3h)				
-- — Free Writing  				
+- — [Week 3 doc](https://rutgers.box.com/s/jl9lhcwgj330grat4wzt9c69errrqo3h)
 - — Reading Discussion				
 - — Spend 5–10 minutes reading the response and questions written by the person to your left. Highlight one of their questions. Annotate their response (before your comment, include your name, e.g. "Alvin: lorem ipsum..."). Randomizer will pick the first name to read their selected question. This person will pick the next person, and so on.				
 - — Brief presentation of Exercise: Type in Motion.					
@@ -72,7 +70,6 @@ For next week
 ::: .schedule
 September 27, 2022 {.date}			
 - — [Week 4 doc](https://rutgers.box.com/s/daj327mttnsmz8wrlaoyanln16r9bk9a)
-- — Free writing  				
 - — Demo: HTML & CSS refresher				
 - — Exercise: Coding from Life					
 - — one-on-ones, please sign up in the Week 4 google doc				
@@ -89,19 +86,18 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 4, 2022	{.date}				
-- — [Week 5 doc](https://rutgers.box.com/s/nt98cu50f5y8wd7uihgl0v8dhaz6ngmz)				
-- — Free writing  				
+- — [Week 5 doc](https://rutgers.box.com/s/nt98cu50f5y8wd7uihgl0v8dhaz6ngmz)
 - — Final presentations				
 - — review presentation format (first responders + note takers)				
 - — Lunch break				
-- — Time-Time-Time Workshop (HTML-CSS-JS)				
+- — Time-Time-Time Workshop led by [Mengjie Liu](https://www.mengjieliu.com/) (HTML-CSS-JS)				
 - — Introduce P2
 :::
 ::: .next__week
 For next week				
 - — Create 3 proposals for P2. Each proposal should use a different subculture.				
-- 📖Reread On [Community Memory](https://www.are.na/blog/community-memory) by Mike Tully
-- If you haven't already, write a response and three discussion questions in the [Week 4 doc](https://rutgers.box.com/s/daj327mttnsmz8wrlaoyanln16r9bk9a)
+- — 📖Reread On [Community Memory](https://www.are.na/blog/community-memory) by Mike Tully
+- — If you haven't already, write a response and three discussion questions in the [Week 4 doc](https://rutgers.box.com/s/daj327mttnsmz8wrlaoyanln16r9bk9a)
 :::
 :::
 :::
@@ -112,20 +108,18 @@ For next week
 ::: .schedule
 October 11, 2022 {.date}			
 - — [Week 6 doc](https://rutgers.box.com/s/mi4oxtboef9obst45lk0b87pkhdoypz4)			
-- — Free writing  				
+- — Tagging the web (Javascript Workshop) 				
 - — Guest Lecture, [Mike Tully](https://www.mike-tully.com/)					
 - — P2 concept and sketch presentations				
 - — For next week...
 
 	P1 Updates				
 - — Oct 17 – Deadline to submit projects for exhibition				
-- — Submission form is here!				
-- — Animation: Video-makers should work together to sequence their videos into a single file. Add a 2-second black slide in between each segment. In the submission link, one volunteer will upload this compilation reel and list all student names in the correct order on the form.				
-- — Websites: Website-makers will submit an individual entry. Under Special Provisions, check "Other" and write "Design 3A Web Bundle, shared Mac mini and monitor"				
+- — Submission form is [here](https://docs.google.com/forms/d/12oZLoa5qQUGQtGsekS3S--r7hGcsiF9bBf7dwwaopk0/viewform?ts=633f400f&edit_requested=true)!				
 :::
 ::: .next__week
 For next week				
-- — 📖Read Muriel Cooper's Visible Wisdom, 1994
+- — 📖Read Muriel Cooper's [Visible Wisdom](https://s3.amazonaws.com/arena-attachments/308957/500c08580bcd728c7274f67c8ad56818.pdf), 1994
 - — Write a response and three discussion questions in the [Week 7 doc](https://rutgers.box.com/s/w5auouamiufsv6lrwsqg7djsx6cru0bn)				
 :::
 :::
@@ -136,21 +130,16 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 18, 2022 {.date}				
-- — [Week 7 doc](https://rutgers.box.com/s/w5auouamiufsv6lrwsqg7djsx6cru0bn)				
-- — Free writing  				
-- — Introduce :hover exercise				
+- — [Week 7 doc](https://rutgers.box.com/s/w5auouamiufsv6lrwsqg7djsx6cru0bn)
+- — Introduce :scroll-direction exercise				
 - — One-on-ones for P2 initial sketches						
-- — :hover presentations					
+- — :scroll-direction presentations					
 - — For next week...
-
-P1 updates				
-- — If you made a website, please add your artfiles link to the section in the g-doc				
-- — Oct 18–20 — Exhibition installation				
-- — Oct 21 — Exhibition “on view” / soft opening				
+	
 :::
 ::: .next__week
 For next week				
-- 📖Read Oliver Burkeman's Stop Trying to Make the Web Beautiful				
+- 📖Read Oliver Burkeman's [Stop Trying to Make the Web Beautiful](https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/feb/04/facebook-paper-aesthetic-web-beautiful)				
 - — Write a response and three discussion questions in the [Week 8 doc](https://rutgers.box.com/s/q9lwrexzopqq1jlh49425r0u99urvjx9)				
 - — Continue working on P2. By next week, it should be in code.				
 :::
@@ -171,9 +160,7 @@ October 25, 2022 {.date}
 :::
 ::: .next__week
 For next week				
-- — Class will end early!				
-- 📖Read American Artist's Black Gooey Universe				
-- — Write a response and three discussion questions in the [Week 9 doc](https://rutgers.box.com/s/8s43rd4rhipbed0b8ngtkfhze7kb9b0j)				
+- TBD			
 :::
 :::
 :::
@@ -183,15 +170,14 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 1, 2022 {.date}			
-- — [Week 9 doc](https://rutgers.box.com/s/8s43rd4rhipbed0b8ngtkfhze7kb9b0j)					
-- — Discuss American Artist's Black Gooey Universe				
+- — [Week 9 doc](https://rutgers.box.com/s/8s43rd4rhipbed0b8ngtkfhze7kb9b0j)						
 - — in-class studio				
 - — one-on-ones
 :::
 ::: .next__week
 For next week				
 - — P2 final critique next week with TBD				
-- — Please make sure your final websites are hosted on your artfiles site. Add a link next to your name in the [W10 doc](https://rutgers.box.com/s/cubzj0po82n5xhmnv86r5ry8pbwyijh7).				
+- — Please make sure your final websites are hosted on your GitHub site. Add a link next to your name in the [W10 doc](https://rutgers.box.com/s/cubzj0po82n5xhmnv86r5ry8pbwyijh7).				
 :::
 :::
 :::
@@ -208,8 +194,8 @@ November 8, 2022 {.date}
 :::
 ::: .next__week
 For next week				
-- — Watch Darius Kazemi, Social Solutions to Social Networking				
-- — Write a response and three discussion questions in the [Week 11 doc](https://docs.google.com/document/d/1ONukKln7GGv_TFPQMjErG0DG3mge0MXJtej9tGZv8eU/edit?usp=sharing)				
+- — Watch Darius Kazemi, [Social Solutions to Social Networking](https://www.youtube.com/watch?v=jl-KxHBJLe0&ab_channel=TheConference%2FMediaEvolution)				
+- — Write a response and three discussion questions in the [Week 11 doc](https://rutgers.box.com/s/dl7it7s6az3ov5n5s0eu7u75u030odb0)				
 :::
 :::
 :::
@@ -219,17 +205,17 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 15, 2022 {.date}			
-- — [Week 11 doc](https://docs.google.com/document/d/1ONukKln7GGv_TFPQMjErG0DG3mge0MXJtej9tGZv8eU/edit?usp=sharing)				
-- — Free writing 				
+- — [Week 11 doc](https://rutgers.box.com/s/dl7it7s6az3ov5n5s0eu7u75u030odb0)					
 - — Introduce P3					
 - — Tutorial: variable units, media queries, flexbox				
 - — Small group brainstorm
 :::
 ::: .next__week
-For next week				
-- 📖Read The Coming Age of Calm Technology				
-- — Write a response and three discussion questions in the [Week 13 doc](https://docs.google.com/document/d/1QrBln1tlAgeEIFZinMDpgXC_VTunr68KDzj7OXAdQCg/edit?usp=sharing)				
-- — Create digital sketches of 3 designs. Link this next to your name in the [Week 13 doc](https://docs.google.com/document/d/1QrBln1tlAgeEIFZinMDpgXC_VTunr68KDzj7OXAdQCg/edit?usp=sharing)				
+For next week	
+- No class, observe Thursday Schedule.
+- 📖Read [The Coming Age of Calm Technology](https://web.archive.org/web/19971011215148/http://www.ubiq.com/hypertext/weiser/acmfuture2endnote.htm)				
+- — Write a response and three discussion questions in the [Week 13 doc](https://rutgers.box.com/s/39bn33aku9dcqwuazcwjapzfe5eiop82)				
+- — Create digital sketches of 3 designs. Link this next to your name in the [Week 13 doc](https://rutgers.box.com/s/39bn33aku9dcqwuazcwjapzfe5eiop82)				
 :::
 :::
 :::
@@ -249,17 +235,11 @@ November 22, 2022 {.date}
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 29, 2022 {.date}			
-- — [Week 13 doc](https://docs.google.com/document/d/1QrBln1tlAgeEIFZinMDpgXC_VTunr68KDzj7OXAdQCg/edit?usp=sharing)				
-- — Free writing 				
+- — [Week 13 doc](https://rutgers.box.com/s/39bn33aku9dcqwuazcwjapzfe5eiop82)					
 - — Reading Discussion				
 - — Exercise: Local Area Network, micro-exercise #1					
 - — Lunch break				
 - — one-on-ones
-:::
-::: .next__week
-For next week				
-- — 11/26 - no class!				
-- — 11/26 - By 10AM Tuesday morning, paste a link to your latest P3 (in code or prototyping tool) in [W13 doc](https://docs.google.com/document/d/1QrBln1tlAgeEIFZinMDpgXC_VTunr68KDzj7OXAdQCg/edit?usp=sharing). I will email feedback.				
 :::
 :::
 :::
@@ -269,14 +249,14 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 December 6, 2022 {.date}				
-- — [Week 14 doc](https://docs.google.com/document/d/1xYh-n_-dg22bsvZ95mnZAnL0nHV1M3GZuRhiHrKe3UI/edit?usp=sharing)				
-- — Review with guest cititc, [Mike Tully](https://www.mike-tully.com/)				
+- — [Week 14 doc](https://rutgers.box.com/s/unxengaoohv289f5y95qzuyo8deg3eco)				
+- — Review with guest critic, [Mike Tully](https://www.mike-tully.com/)				
 - — in-class studio
 :::
 ::: .next__week
 For next week				
 - — Work on P3 projects				
-- — Link your final projects to the [Week 15 doc](https://docs.google.com/document/d/1iD6QxtmZMR4RB6t3sXeD9Q1q6e_5ZKfQHn0252dPZ2w/edit?usp=sharing)				
+- — Link your final projects to the [Week 15 doc](https://rutgers.box.com/s/d7rr3t38ahge794jgxka5o0wpzehxg70)				
 - — Final class next week!				
 :::
 :::
@@ -287,7 +267,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 December 13, 2022 {.date}			
-- — [Week 15 doc](https://docs.google.com/document/d/1iD6QxtmZMR4RB6t3sXeD9Q1q6e_5ZKfQHn0252dPZ2w/edit?usp=sharing)				
+- — [Week 15 doc](https://rutgers.box.com/s/d7rr3t38ahge794jgxka5o0wpzehxg70)				
 - — Student Evaluations				
 - — Final Presentations
 :::
