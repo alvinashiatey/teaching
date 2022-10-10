@@ -100,8 +100,8 @@ October 4, 2022	{.date}
 ::: .next__week
 For next week				
 - — Create 3 proposals for P2. Each proposal should use a different subculture.				
-- 📖Read Muriel Cooper's Visible Wisdom, 1994				
-- — Write a response and three discussion questions in the [Week 6 doc](https://docs.google.com/document/d/19xAO48rHaj8t1WX-8GDyZhdBl2hjLI40iRN5Y3yGuRQ/edit?usp=sharing)				
+- 📖Reread On [Community Memory](https://www.are.na/blog/community-memory) by Mike Tully
+- If you haven't already, write a response and three discussion questions in the [Week 4 doc](https://rutgers.box.com/s/daj327mttnsmz8wrlaoyanln16r9bk9a)
 :::
 :::
 :::
@@ -111,22 +111,22 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 11, 2022 {.date}			
-- — [Week 6 doc](https://docs.google.com/document/d/19xAO48rHaj8t1WX-8GDyZhdBl2hjLI40iRN5Y3yGuRQ/edit?usp=sharing)			
+- — [Week 6 doc](https://rutgers.box.com/s/mi4oxtboef9obst45lk0b87pkhdoypz4)			
 - — Free writing  				
 - — Guest Lecture, [Mike Tully](https://www.mike-tully.com/)					
 - — P2 concept and sketch presentations				
 - — For next week...
 
 	P1 Updates				
-- — Oct 11 – Deadline to submit projects for exhibition				
+- — Oct 17 – Deadline to submit projects for exhibition				
 - — Submission form is here!				
 - — Animation: Video-makers should work together to sequence their videos into a single file. Add a 2-second black slide in between each segment. In the submission link, one volunteer will upload this compilation reel and list all student names in the correct order on the form.				
 - — Websites: Website-makers will submit an individual entry. Under Special Provisions, check "Other" and write "Design 3A Web Bundle, shared Mac mini and monitor"				
 :::
 ::: .next__week
 For next week				
-- — Check out Headgear				
-- — Write a response and three discussion questions in the [Week 7 doc](https://docs.google.com/document/d/1AV88T7eKs5NVTHoUNJJEnoRk4n1K215STeUkNywf0ZY/edit?usp=sharing)				
+- — 📖Read Muriel Cooper's Visible Wisdom, 1994
+- — Write a response and three discussion questions in the [Week 7 doc](https://rutgers.box.com/s/w5auouamiufsv6lrwsqg7djsx6cru0bn)				
 :::
 :::
 :::
@@ -136,7 +136,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 18, 2022 {.date}				
-- — [Week 7 doc](https://docs.google.com/document/d/1AV88T7eKs5NVTHoUNJJEnoRk4n1K215STeUkNywf0ZY/edit?usp=sharing)				
+- — [Week 7 doc](https://rutgers.box.com/s/w5auouamiufsv6lrwsqg7djsx6cru0bn)				
 - — Free writing  				
 - — Introduce :hover exercise				
 - — One-on-ones for P2 initial sketches						
@@ -151,7 +151,7 @@ P1 updates
 ::: .next__week
 For next week				
 - 📖Read Oliver Burkeman's Stop Trying to Make the Web Beautiful				
-- — Write a response and three discussion questions in the [Week 8 doc](https://docs.google.com/document/d/1Mz3fqF1XYIg5ZxoBSMPQVQaoT9FoPqcv7iP0E8k7kYM/edit?usp=sharing)				
+- — Write a response and three discussion questions in the [Week 8 doc](https://rutgers.box.com/s/q9lwrexzopqq1jlh49425r0u99urvjx9)				
 - — Continue working on P2. By next week, it should be in code.				
 :::
 :::
@@ -162,7 +162,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 October 25, 2022 {.date}				
-- — [Week 8 doc](https://docs.google.com/document/d/1Mz3fqF1XYIg5ZxoBSMPQVQaoT9FoPqcv7iP0E8k7kYM/edit?usp=sharing)			
+- — [Week 8 doc](https://rutgers.box.com/s/q9lwrexzopqq1jlh49425r0u99urvjx9)			
 - — Reading Discussion				
 - — Mid-Project review
 
@@ -173,7 +173,7 @@ October 25, 2022 {.date}
 For next week				
 - — Class will end early!				
 - 📖Read American Artist's Black Gooey Universe				
-- — Write a response and three discussion questions in the [Week 9 doc](https://docs.google.com/document/d/1wm12QeVYUzlNRp-unBNGJ0Wc8ktV__ejuPIy-Fiit88/edit?usp=sharing)				
+- — Write a response and three discussion questions in the [Week 9 doc](https://rutgers.box.com/s/8s43rd4rhipbed0b8ngtkfhze7kb9b0j)				
 :::
 :::
 :::
@@ -183,7 +183,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 1, 2022 {.date}			
-- — [Week 9 doc](https://docs.google.com/document/d/1wm12QeVYUzlNRp-unBNGJ0Wc8ktV__ejuPIy-Fiit88/edit?usp=sharing)					
+- — [Week 9 doc](https://rutgers.box.com/s/8s43rd4rhipbed0b8ngtkfhze7kb9b0j)					
 - — Discuss American Artist's Black Gooey Universe				
 - — in-class studio				
 - — one-on-ones
@@ -191,7 +191,7 @@ November 1, 2022 {.date}
 ::: .next__week
 For next week				
 - — P2 final critique next week with TBD				
-- — Please make sure your final websites are hosted on your artfiles site. Add a link next to your name in the [W10 doc](https://docs.google.com/document/d/15XxmsLVtGzhtvDMOF0YfwSe6XTYwJ5PVK_J6yo7741M/edit?usp=sharing).				
+- — Please make sure your final websites are hosted on your artfiles site. Add a link next to your name in the [W10 doc](https://rutgers.box.com/s/cubzj0po82n5xhmnv86r5ry8pbwyijh7).				
 :::
 :::
 :::
@@ -201,7 +201,7 @@ For next week
 ::: .cal_detail {hidden=""}
 ::: .schedule
 November 8, 2022 {.date}				
-- — [Week 10 doc](https://docs.google.com/document/d/15XxmsLVtGzhtvDMOF0YfwSe6XTYwJ5PVK_J6yo7741M/edit?usp=sharing)				
+- — [Week 10 doc](https://rutgers.box.com/s/cubzj0po82n5xhmnv86r5ry8pbwyijh7)				
 - — Review presentation format (first responders + note takers)				
 - — P2 final presentations				
 - — Guest Critic: TBD
