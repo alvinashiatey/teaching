@@ -12,7 +12,7 @@ September 6, 2022 {.date}
 :::
 ::: .next__week
 For next week				
-- — All future classes this semester will begin at 10AM				
+- — All future classes this semester will begin at 10AM	
 - — Create 3 ideas for P1 in the form of storyboard sketches or rough prototypes				
 - 📖Read Ulises Carrión, [“THE NEW ART OF MAKING BOOKS”](https://www.serraglia.com/wp-content/uploads/2018/05/Ulises-Carrion-The-New-Art-of-Making-Books1.pdf), while reading substitute "Book(s)" with "website(s)"
 - — Write a response and three discussion questions in the [Week 2 doc](https://rutgers.box.com/s/yn97c65hqbzkx1ltgj8ehw0kp27uksk7)	
